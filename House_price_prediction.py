@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jun 15 15:11:47 2020
-
+Implementation of House price by one layer feedforward network. 
 @author: mayao
 """
 
