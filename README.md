@@ -1,2 +1,2 @@
 # Kaggle-competition
-Implementation of Kaggle competion
+Implementation of Kaggle competitions
