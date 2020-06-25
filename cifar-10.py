@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Implementation of classification on Kaggle competition: CIFAR-10
-
+Hightlights:
+     1. Usage of ResNet18 
+     2. Divide training samples into training set and validation set.
+     3. Image augumentation on training samples.
 
 @author: mayao
 """
