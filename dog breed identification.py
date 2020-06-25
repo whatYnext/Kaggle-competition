@@ -2,6 +2,10 @@
 """
 Implementation of classification on dog breed identification
 
+Hightlights:
+        1. Usage of ResNet 34 with fine tuning (revised output)
+        2. Image augumentation
+
 @author: mayao
 """
 
